@@ -21,8 +21,9 @@ div.Portada{
   }
 }
  h1.primero {margin-top: 0px;
+ 	margin-bottom: 15px;
  	padding-top: 120px;
- 	font-size: 8em;
+ 	font-size: 7em;
     color: #000000;
     font-family: 'Lobster', cursive;
     text-align: center;
