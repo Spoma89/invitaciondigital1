@@ -63,3 +63,8 @@ h3{
 font-family: 'Lobster', cursive;
 margin-bottom: 0px;
 }
+.footer{
+	font-size: 15px;
+	text-align: center;
+	color:#000000;
+}
